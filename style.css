@@ -1,5 +1,4 @@
 @import'https://fonts.googleapis.com/css?family=Open+Sans&subset=latin-ext';
-@import'https://fonts.googleapis.com/css?family=Playfair+Display';
 
 html{font-size:140%;} 
 @media(min-width:60em){html{font-size: 100%}}
